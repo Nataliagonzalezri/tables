@@ -1,0 +1,33 @@
+h1 {
+    font-family: Helvetica;
+}
+
+table {
+    font-size: 10pt;
+    color:#525252;
+    font-family: Helvetica;
+    margin: 15px;
+    border: 1px solid #525252;
+    }
+
+th {
+    border-width: 1 1px 0;
+    border: collapse;
+}
+
+td {
+    font-size: 10pt;
+    color:#525252;
+    font-family: Helvetica;
+    margin: 15px;
+    border: 1px 0 #525252;
+    }
+.special {
+    background-color: #d2def1;
+}
+
+#very-special {
+    background-color: #c3ecd5
+}
+
+
